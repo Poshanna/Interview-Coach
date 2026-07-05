@@ -1,4 +1,4 @@
-# AI Interview Coach
+# Smart Interview Coach
 
 Practice AI-powered interviews tailored to your skills, resume, and career goals. Get evaluated in real-time by advanced LLMs.
 
